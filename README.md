@@ -1,18 +1,18 @@
-## Hi there 👋
+## Hi there :-) 👋
 
 <!--
 **avilaroman/avilaroman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on Cloudflare Workers automations
+- 🌱 I’m currently learning .NET and Node.JS apps
+- 👯 I’m colaborated to top notch Enterprises Companies world wide. (Argentina, Canada, USA, England)
+- 🤔 I’m looking for help with my expertise to 
+- 💬 Ask me whatever
+- 📫 How to reach me: avilaroman@gmail.com
+- 😄 Pronouns: Just Roman
+- ⚡ Fun fact: Pickleball player, Juggler and Unicyclist.
 -->
 <h1 align="center"><b>Hi , I'm Roman Javier Avila</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
@@ -20,14 +20,14 @@ Here are some ideas to get you started:
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am a Computer Science - Developer  and I work as a software developer at a company that creates systems for carpentry. I love to learn and build something new, productive, innovative and creative.
+I am a Computer Science - Developer  and I work as a software developer. I love to learn and build something new, productive, innovative and creative.
 - 🌱 Learning Allways
   - Nest.js
   - Angular
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help<br>
-- Outside tech, 🎵 listening to music, and 📖 reading science books.
-- 👾 Additionally, I create content about programming/technology on my social media, so feel free to check out my profile!
+- Outside tech
+- 👾 Additionally, I create content about programming/technology on my social media.
 - 📫 Reach out to me at: <a href="avilaroman@gmail.com">AvilaRoman@gmail.com</a>
 
 ## My Skills Include
