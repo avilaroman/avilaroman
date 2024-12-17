@@ -1,10 +1,7 @@
-## Hi there :-) 👋
+## Hi :-) 👋
 
 <!--
 **avilaroman/avilaroman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Cloudflare Workers automations
 - 🌱 I’m currently learning .NET and Node.JS apps
 - 👯 I’m colaborated to top notch Enterprises Companies world wide. (Argentina, Canada, USA, England)
@@ -22,10 +19,11 @@ Here are some ideas to get you started:
 
 I am a Computer Science - Developer  and I work as a software developer. I love to learn and build something new, productive, innovative and creative.
 - 🌱 Learning Allways
-  - Nest.js
-  - Angular
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help<br>
+  - Node.js
+  - C#, .NET SQL
+  - Serverless apps / REST
+- 👯 In DEV mode smood since: 2002
+- ✔ Wikipedia Wikimedia Commons User: avilaroman
 - Outside tech
 - 👾 Additionally, I create content about programming/technology on my social media.
 - 📫 Reach out to me at: <a href="avilaroman@gmail.com">AvilaRoman@gmail.com</a>
