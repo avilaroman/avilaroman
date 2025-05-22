@@ -17,7 +17,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am a Computer Science - Developer  and I work as a software developer. I love to learn and build something new, productive, innovative and creative.
+I am a Computer Science - Developer, and I work as a software developer. I love to learn and build something new, productive, innovative, and creative.
 - 🌱 Learning Always
   - Node.js
   - C#, .NET SQL
@@ -39,25 +39,16 @@ I am a Computer Science - Developer  and I work as a software developer. I love 
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src= "https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
- 
-
 
 </span>
-
-
 <h4> Other Tools and Technologies </h4>
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-
-
-
-
 </span>
 
-## Check out my Social Media
-
+## Check out:
 <a href= "https://www.instagram.com/avilaroman/?hl=es">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
