@@ -35,7 +35,8 @@ I am a Computer Science Developer, and I work as a software developer. I love to
 <a href="https://www.linkedin.com/in/avilaroman/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 <h2>Github stats:</h2>
-[![](https://github-readme-stats.vercel.app/api?username=avilaroman&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/avilaroman)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=avilaroman&theme=material-palenight)](https://github.com/avilaroman)
 
+<div> [![](https://github-readme-stats.vercel.app/api?username=avilaroman&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/avilaroman)
+</div>
 
+<div> [![](https://github-readme-streak-stats.herokuapp.com/?user=avilaroman&theme=material-palenight)](https://github.com/avilaroman) </div>
